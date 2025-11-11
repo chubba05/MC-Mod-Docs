@@ -16,8 +16,10 @@ If you want to contribute there are a few things to note:
 4. You must ensure that the information is accurate.
 5. You must specify the mod version.
 6. Only SFW mods are allowed.
-7. Do not include recipies in images unless they are not obvious. (This is to reduce clutter)
+7. Do not include recipies in images unless they are not obvious or there is only one. (This is to reduce clutter)
 	* If you get raw **\<Material>** from a raw **\<Material>** block, do not include the recipe.
 	* If you get raw **\<Material>** from using **\<Material>** ore on a stonecutter, do include that recipe.
-	* Include all recipies in text atleast
-8. Only one recipe image should be displayed at any time
+	* If you get **\<Material>** armor the same way you get **\<Default Minecraft Material>** armor, do include that recipe.
+	* Include all recipies in text.
+8. Only one recipe image should be displayed at any time.
+9. All information should be publicly accessable and verifiable.
